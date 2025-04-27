@@ -1,2 +1,2 @@
   # portefeuille de compétences
-   https://portfolio.sekhedi/
+   https://portfolio.sekhedi/cv
