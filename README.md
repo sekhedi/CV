@@ -1,2 +1,2 @@
   # portefeuille de compétences
-   https://sekhedi.github.io/CV/
+   https://portfolio.sekhedi/
